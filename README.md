@@ -1,6 +1,6 @@
 # Portfolio Website
 
-## AIM (Aim)
+## AIM 
 
 The aim of this project is to create a personal portfolio website that highlights my skills, interests, and projects. The website includes two main pages: a **Home page** and a **Contact page**. The Home page showcases my projects and provides a brief description of my role and interests, while the Contact page allows visitors to get in touch with me.
 

@@ -33,7 +33,7 @@ The aim of this project is to create a personal portfolio website that highlight
 ### Setup Instructions
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/portfolio.git
+    https://github.com/vidyaneela/portfolio-simple-proj.git
     ```
 2. **Navigate to the project directory**:
     ```bash

@@ -43,6 +43,7 @@ The aim of this project is to create a personal portfolio website that highlight
 
 ### Files Structure
 ## Home Page:
+```html
 <!DOCTYPE html>
 <html>
 
@@ -116,8 +117,10 @@ The aim of this project is to create a personal portfolio website that highlight
 </body>
 
 </html>
+```
 
 ## Contact Page:
+```html
 <!DOCTYPE html>
 <html>
 
@@ -168,8 +171,9 @@ The aim of this project is to create a personal portfolio website that highlight
 </body>
 
 </html>
-
+```
 ## CSS :
+```css
 *{
     padding:0;
     margin:0;
@@ -263,6 +267,7 @@ body{
     display: inline-block;
     margin-top: 10px;
 }
+```
 
 ## Motivation
 The motivation behind this project is to create an online portfolio that represents my skills and projects as a Web Developer. This website serves as a digital introduction for potential clients, employers, and collaborators to understand my expertise and contact me easily.
